@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Python, Django**
 
-- 📫 How to reach me **nikhilsondhiya2221@gmail.com**
-
 - ⚡ Fun fact **The Brighter the light, the Darker the shadow falls**
 
 <h3 align="left">Connect with me:</h3>
